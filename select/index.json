@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "夜のピエロ",
+  "base_artist": "Ado",
+  "createdAt": "2026-02-22T17:57:49.848901Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夜のピエロ",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/01_夜のピエロ_Ado.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "夜のピエロ",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/02_夜のピエロ_Ado.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "夜のピエロ - TeddyLoid Remix",
+      "artist": "Ado; TeddyLoid",
+      "has_synced": true,
+      "path": "select/03_夜のピエロ_-_TeddyLoid_Remix_Ado;_TeddyLoid.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "夜のピエロ - TeddyLoid Remix",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/04_夜のピエロ_-_TeddyLoid_Remix_Ado.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "夜のピエロ - Yoru No Pierrot",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/05_夜のピエロ_-_Yoru_No_Pierrot_Ado.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "夜のピエロ",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/06_夜のピエロ_Ado.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "夜のピエロ（TeddyLoid Remix）",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/07_夜のピエロ(TeddyLoid_Remix)_Ado.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "夜のピエロ (\"Yoru no Pierrot\")",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/08_夜のピエロ_(_Yoru_no_Pierrot_)_Ado.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Yoru no Pierrot (夜のピエロ)",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/09_Yoru_no_Pierrot_(夜のピエロ)_Ado.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "夜のピエロ",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/10_夜のピエロ_Ado.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "夜のピエロ",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/11_夜のピエロ_Ado.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夜のピエロ",
+      "artist": "Ado",
+      "has_synced": false,
+      "path": "select/pl_01_夜のピエロ_Ado.txt"
+    }
+  ]
+}
